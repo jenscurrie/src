@@ -3,3 +3,4 @@
 #' subsequent analysis
 whales <- read.csv(file = 'C:/Users/jenscurrie/Documents/rgit/myrepo/data/bbmroData.csv')
 head(whales)
+
